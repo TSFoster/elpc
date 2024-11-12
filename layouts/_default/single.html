@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1>{{.Page.Title}}</h1>
+{{ if .Params.toc }}
+<aside class="right">
+  {{ .TableOfContents }}
+</aside>
+{{ end }}
+{{ .Content }}
+{{ end }}

@@ -1,0 +1,90 @@
+body {
+  background-color: $boxColor;
+  overflow-wrap: break-word;
+  color: $bodyColor;
+  @include body-text;
+  font-size: $fontSize;
+
+  @media #{$firstBreakpointStr} {
+    font-size: $firstBreakpointFontSize;
+  }
+
+  @media #{$secondBreakpointStr} {
+    font-size: $secondBreakpoint * ($firstBreakpointFontSize / 100vw);
+  }
+}
+
+
+a {
+  color: $accentColor;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include heading;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3,
+h4 {
+  font-size: 1em;
+}
+
+h5,
+h6 {
+  font-size: 1em;
+  text-transform: none;
+}
+
+h4,
+h6 {
+  font-weight: normal;
+}
+
+@mixin boxed($maxWidth: 50%) {
+  background-color: $boxColor;
+  padding: 1em;
+  border-radius: 1em;
+  max-width: 100%;
+
+  @media #{$firstBreakpointStr} {
+    max-width: $maxWidth;
+  }
+
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+blockquote {
+  @include boxed(75%);
+  margin: 0 auto 2em;
+}
+
+@mixin wrapper {
+  max-width: $secondBreakpoint;
+  margin: 0 auto;
+  box-sizing: border-box;
+  position: relative;
+}
+
+hr {
+  border: 0.1em solid $bodyColor;
+  margin: 2em 5em;
+}
+
+.header-footer-wrapper {
+  background-color: $backgroundColor;
+  padding: 0;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
+}

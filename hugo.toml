@@ -1,0 +1,14 @@
+baseURL = 'https://elpc.org.uk'
+languageCode = 'en-gb'
+disableHugoGeneratorInject = true
+title = 'East Lothian Pickleball Club'
+disableKinds = ['taxonomy']
+summaryLength = 25
+[languages]
+[languages.en]
+languageCode = 'en-GB'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+[markup.goldmark.renderer]
+unsafe = true
