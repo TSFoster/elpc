@@ -1,5 +1,5 @@
 {{ define "main" }}
-<h1>{{.Page.Title}}</h1>
+{{ if ne .RelPermalink "/home/" }}<h1>{{.Page.Title}}</h1>{{ end }}
 {{ if .Params.toc }}
 <aside class="right">
   {{ .TableOfContents }}
