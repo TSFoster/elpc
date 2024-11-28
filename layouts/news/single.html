@@ -1,0 +1,10 @@
+{{ define "main" }}
+<a href="/news">&larr; News</a>
+<h1>{{ .Title }}</h1>
+{{ if ge .WordCount 100 }}
+<aside class="right">
+  {{ .TableOfContents }}
+</aside>
+{{ end }}
+{{ .Content }}
+{{ end }}

@@ -94,6 +94,36 @@ collections:
                 default: 999
                 hint: >
                   Enter 999 to remove from menu
+  - name: news
+    label: News
+    label_singular: Article
+    folder: content/news
+    create: true
+    format: frontmatter
+    filter:
+      field: type
+      value: news
+    preview_path: 'news/{{ print "{{ slug }}" }}/'
+    editor: { preview: false }
+    media_folder: /assets/news
+    public_folder: /news
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        default: Minutes for meeting held
+      - label: Date
+        name: publishDate
+        widget: datetime
+        picker_utc: true
+      - label: Type
+        name: type
+        default: news
+        widget: hidden
+      - label: Content
+        name: body
+        widget: markdown
+        required: true
   - name: minutes
     label: Minutes
     label_singular: Meeting
