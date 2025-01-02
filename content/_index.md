@@ -1,12 +1,12 @@
 ---
-title: East Lothian Pickleball Club
+title: Coming Soon
+is_page: true
 menu:
   main:
     name: Coming soon
     weight: 999
   footer:
     weight: 999
-is_page: true
 ---
 
 Coming Soon
