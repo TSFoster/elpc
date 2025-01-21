@@ -6,4 +6,11 @@
 </aside>
 {{ end }}
 {{ .Content }}
+{{ with .Params.files }}
+<h4>Attached files</h4>
+{{ range . }}
+<a target="_blank" href="{{ . }}" class="linked-file">{{ path.Base . }}</a>
+{{ end }}
+</aside>
+{{ end }}
 {{ end }}

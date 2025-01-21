@@ -50,6 +50,14 @@ collections:
         name: body
         widget: markdown
         required: false
+      - label: Files
+        name: files
+        widget: list
+        field:
+          name: file
+          label: File
+          widget: file
+        required: false
       - label: Redirects
         label_singular: Redirect
         name: redirects
