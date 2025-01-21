@@ -181,52 +181,78 @@ collections:
             widget: list
             name: main
             label_singular: 'menu item'
-            summary: '{{ print "{{" }}link{{ print "}}" }}'
-            fields:
-              - label: Type
-                name: type
-                widget: hidden
-                default: page
-              - label: Link
-                name: link
-                required: true
-                widget: relation
-                collection: pages
-                value_field: internal_name
-                search_fields:
-                  - internal_name
-                  - slug
-                  - title
-              - label: Override title
-                name: title
-                widget: string
-                required: false
-                hint: 'Optional. Menu will use the title of the page by default'
+            types:
+              - label: Page
+                name: page
+                summary: '{{ print "{{link}}" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: relation
+                    collection: pages
+                    value_field: internal_name
+                    search_fields:
+                      - internal_name
+                      - slug
+                      - title
+                  - label: Override title
+                    name: title
+                    widget: string
+                    required: false
+                    hint: 'Optional. Menu will use the title of the page by default'
+              - label: External link
+                name: external
+                summary: '{{ print "{{title}} ({{link}})" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: string
+                  - label: Title
+                    name: title
+                    widget: string
+                    required: true
           - label: Footer
             widget: list
             name: footer
             label_singular: 'menu item'
-            summary: '{{ print "{{" }}link{{ print "}}" }}'
-            fields:
-              - label: Type
-                name: type
-                widget: hidden
-                default: page
-              - label: Link
-                name: link
-                required: true
-                widget: relation
-                collection: pages
-                value_field: internal_name
-                search_fields:
-                  - internal_name
-                  - slug
-                  - title
-              - label: Override title
-                name: title
-                widget: string
-                required: false
-                hint: 'Optional. Menu will use the title of the page by default'
+            types:
+              - label: Page
+                name: page
+                summary: '{{ print "{{link}}" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: relation
+                    collection: pages
+                    value_field: internal_name
+                    search_fields:
+                      - internal_name
+                      - slug
+                      - title
+                  - label: Override title
+                    name: title
+                    widget: string
+                    required: false
+                    hint: 'Optional. Menu will use the title of the page by default'
+              - label: External link
+                name: external
+                summary: '{{ print "{{title}} ({{link}})" }}'
+                widget: object
+                fields:
+                  - label: Link
+                    name: link
+                    required: true
+                    widget: string
+                  - label: Title
+                    name: title
+                    widget: string
+                    required: true
           - label: Icons
             widget: list
             name: icons

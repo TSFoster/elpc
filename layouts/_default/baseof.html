@@ -75,6 +75,8 @@
             </a>
           </li>
           {{- end -}}
+          {{- else if eq .type "external" -}}
+          <li><a href="{{ .link }}" target="_blank">{{ .title }}</a></li>
           {{- end -}}
           {{- end -}}
           {{ if .Site.Data.menu.icons }}
@@ -110,6 +112,8 @@
           </a>
         </li>
         {{- end -}}
+        {{- else if eq .type "external" -}}
+        <li><a href="{{ .link }}" target="_blank">{{ .title }}</a></li>
         {{- end -}}
         {{- end -}}
       </ul>

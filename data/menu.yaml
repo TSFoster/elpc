@@ -16,6 +16,9 @@ footer:
     link: Privacy policy
   - type: page
     link: Constitution
+  - type: external
+    link: "https://www.pickleballscotland.org"
+    title: Pickleball Scotland
 icons:
   - icon: facebook
     title: Facebook
