@@ -1,9 +1,7 @@
 ---
 title: Membership
-menu:
-  main:
-    title: Membership
-    weight: 11
+internal_name: Membership
+is_page: true
 ---
 
 Membership is …

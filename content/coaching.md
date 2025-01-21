@@ -1,9 +1,7 @@
 ---
 title: Coaching
-menu:
-  main:
-    title: Coaching
-    weight: 15
+internal_name: Coaching
+is_page: true
 ---
 
 Our two coaches provide …

@@ -1,10 +1,7 @@
 ---
 title: Privacy Policy
-menu:
-  main:
-    weight: 999
-  footer:
-    weight: 1
+internal_name: Privacy policy
+is_page: true
 ---
 
 The website for East Lothian Pickleball Club does not collect any data.

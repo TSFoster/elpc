@@ -1,11 +1,6 @@
 ---
 title: What is pickleball?
-menu:
-  main:
-    name: What is Pickleball?
-    weight: 31
-  footer:
-    weight: 999
+internal_name: Intro to pickleball
 is_page: true
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: Constitution
-menu:
-  main:
-    weight: 999
-  footer:
-    weight: 2
+internal_name: Constitution
+is_page: true
 ---
 
 ## Name of Club

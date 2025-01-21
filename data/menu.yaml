@@ -1,4 +1,21 @@
 ---
+main:
+  - type: page
+    link: Home page
+    title: Home
+  - type: page
+    link: Membership
+  - type: page
+    link: Coaching
+  - type: page
+    link: News homepage
+  - type: page
+    link: Intro to pickleball
+footer:
+  - type: page
+    link: Privacy policy
+  - type: page
+    link: Constitution
 icons:
   - icon: facebook
     title: Facebook
@@ -8,6 +25,6 @@ icons:
     link: https://www.instagram.com/eastlothianpickleball/
   - icon: envelope
     title: Email
-    link: mailto:hello@eastlothianpickleball.club
+    link: mailto:eastlothianpickleball@gmail.com
 ---
 
