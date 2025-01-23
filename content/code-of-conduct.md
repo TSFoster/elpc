@@ -4,9 +4,9 @@ title: Code of Conduct
 is_page: true
 toc: false
 ---
-### \    EAST LOTHIAN PICKLEBALL CLUB
+### EAST LOTHIAN PICKLEBALL CLUB
 
-### \    CODE OF CONDUCT (2024)
+### CODE OF CONDUCT (2024)
 
 Pickleball was created to be a fun, competitive, and highly social sport. Since its inception,it has embodied an ethic of good sportsmanship that includes respect, fair play, and graciousness in winning and losing. The purpose of this guide is to encourage behaviours that reflect these foundational values. 
 
@@ -25,8 +25,7 @@ disciplinary action being considered by the club committee.
   Bullying and intimidation will not be tolerated.
 * Do not use any form of profanity orinappropriate language.
 * Don’t make derogatory comments on social media about the club or any member.
-
-Everyone was (or is) a pickleball beginner at one time! It is important that players of different abilities have the opportunity to play with other members of both higher and lower skill levels.  This encourages ongoing player development and allows the sharing of information and experience which will enhance player performance and stimulate interest in the game.
+* Everyone was (or is) a pickleball beginner at one time! It is important that players of different abilities have the opportunity to play with other members of both higher and lower skill levels.  This encourages ongoing player development and allows the sharing of information and experience which will enhance player performance and stimulate interest in the game.
 
 ## 2. Safety
 
@@ -35,8 +34,7 @@ Everyone was (or is) a pickleball beginner at one time! It is important that pl
 * Please dress in safe and appropriate attire. Avoid clothing with offensive logos, designs, words or phrases. 
 * If your court’s ball enters another court during play, immediately shout “Ball” so that all courts can hear.  All play should stop until the ball is returned. 
 * Do not engage in any behaviour, or a style of play, which would endanger the health, safety or well-being of others.
-
-Be aware of other activities taking place in a shared sports hall and shout clear warnings to their participants if necessary for their safety.
+* Be aware of other activities taking place in a shared sports hall and shout clear warnings to their participants if necessary for their safety.
 
 ## 3. Court Etiquette
 
