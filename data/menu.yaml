@@ -15,11 +15,11 @@ footer:
     link: Privacy policy
   - type: page
     link: Constitution
+  - type: page
+    link: Code of Conduct
   - type: external
     link: https://www.pickleballscotland.org
     title: Pickleball Scotland
-  - type: page
-    link: Code of Conduct
 icons:
   - icon: facebook
     title: Facebook
