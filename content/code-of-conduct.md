@@ -67,7 +67,7 @@ disciplinary action being considered by the club committee.
   * Do not call a ball “out” unless you see it clearly and are certain it is out.
   * Promptly correct any wrong call your partner may make.
   * Resolve any uncertainty in favour of your opponents.
-  * At the end of each game, meet the other players at the net to acknowledge them in a positive manner. In officiated matches, thank the referee.
+* At the end of each game, meet the other players at the net to acknowledge them in a positive manner. In officiated matches, thank the referee.
 
 ## 4. Booking, Payment and Cancellation
 
