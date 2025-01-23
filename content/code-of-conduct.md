@@ -41,12 +41,12 @@ disciplinary action being considered by the club committee.
 * Help set up the courts for play and help take them down.
 * Introduce yourself to any players you do not know.
 * If you play at a higher skill level, adjust your style when playing with, or against, beginners – work on your short game, work on ball placement. 
-* Do not intimidate or target weaker players, partners or opponents.  
+* Do not intimidate or target weaker players, partners or opponents. 
 * At club sessions, play to have fun or play competitively if players are evenly matched.
-* Do not offer advice to other players unless they ask for it. If you are asked for help, be positive and encouraging. Do not unduly delay the game you are playing.  
+* Do not offer advice to other players unless they ask for it. If you are asked for help, be positive and encouraging. Do not unduly delay the game you are playing. 
 * Recognise and compliment your partner and opponents when they make good shots.  When faults or errors are made, act graciously and do not criticise.  Apologise for bad or inappropriate remarks immediately.
 * Do not engage in unsportsmanlike conduct or encourage others to do so.
-* Call out the score every time you serve so that your opponents can hear the score.  
+* Call out the score every time you serve so that your opponents can hear the score. 
 * Ball On Court
 
   * Call ‘BALL’ immediately when your stray ball is about to roll onto another court.  
