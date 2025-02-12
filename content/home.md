@@ -12,3 +12,5 @@ We have 2 Scottish Pickleball Qualified coaches available and they run coaching 
 We enter a number of teams at different levels in the Scotish Pickleball Regional leagues.
 
 New members are always welcome and come and try sessions are organised regularly so you can see for yourself what a great sport this is.
+
+![](/assets/weekly-sessions.jpg)
