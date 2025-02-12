@@ -3,6 +3,8 @@ internal_name: Home page
 title: East Lothian Pickleball Club
 is_page: true
 ---
+![](/assets/game.jpg)
+
 East Lothian Pickleball Club was establised in August 2023.  We are a friendly and sociable club based at Queen Margaret University Sport Centre.  
 
 We have grown rapidly since then and offer 10 sessions per week with at least one session every day.
