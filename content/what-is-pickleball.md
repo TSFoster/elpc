@@ -4,7 +4,7 @@ title: What is pickleball?
 is_page: true
 ---
 
-Fast becoming one of the most popular racket sports in the world, [pickleball](https://www.lta.org.uk/play/ways-to-play/pickleball/) brings together some of the best elements of tennis, badminton and table tennis, into a fun and exciting game for people of all ages and abilities.
+Fast becoming one of the most popular racket sports in the world, pickleball [](https://www.lta.org.uk/play/ways-to-play/pickleball/)brings together some of the best elements of tennis, badminton and table tennis, into a fun and exciting game for people of all ages and abilities.
 
 Played on a court the same size as a badminton court – and using a shorter tennis-style net – players use paddles to hit a plastic ball between one another. You can play as both singles and doubles, and it’s a great way to exercise with friends and family or meet new people.
 
