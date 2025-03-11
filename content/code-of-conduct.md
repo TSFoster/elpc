@@ -94,9 +94,11 @@ If a place becomes available the first person on the waiting list will be offere
 **Cancellations**
 
 * Cancellations should be made by declining the event in Spond with a reason.
-* For cancellations made more than 24 hours before the session a credit for the session fee will be noted for the person cancelling.  The credit can be used for a future session.
+* For cancellations made more than 24 hours before the session a credit for the session fee can be given. The credit can be used for a future session.
 * For cancellations made less than 24 hours before the session no credit will be given.
 * If there are mitigating circumstances for a late cancellation, please contact a committee member through Spond and consideration will be given to making an exception regarding the refund.
+* For any cancellation, if you want a credit, please message the Treasurer directly in Spond.  A credit will not be applied unless the Treasurer receives a request.
+* Credits are not transferable between members.
 * The committee will look to take action against people who are persistent late cancellers or no shows.
 
 In summary, be a positive-minded player.  This is YOUR CLUB, support it and strive to make it better.
