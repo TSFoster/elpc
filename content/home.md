@@ -9,7 +9,7 @@ We have grown rapidly and offer 10 sessions per week with at least one session e
 
 We have 2 Scottish Pickleball Qualified coaches available and they run coaching clinics through the club and also offer private tuition.
 
-We enter a number of teams at different levels in the Scotish Pickleball Regional leagues.
+We enter a number of teams at different levels in the Scottish Pickleball regional leagues.
 
 New members are always welcome and "come and try" sessions are organised regularly so you can see for yourself what a great sport this is.
 
