@@ -14,3 +14,7 @@ We enter a number of teams at different levels in the Scottish Pickleball region
 New members are always welcome and "come and try" sessions are organised regularly so you can see for yourself what a great sport this is.
 
 ![](/assets/game.jpg)
+
+![](/assets/game-play.jpg)
+
+![](/assets/christmas.jpg "Chritmas fun session")
