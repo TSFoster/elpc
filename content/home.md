@@ -17,4 +17,6 @@ New members are always welcome and "come and try" sessions are organised regular
 
 ![](/assets/game-play.jpg)
 
-![](/assets/christmas.jpg "Chritmas fun session")
+![](/assets/christmas.jpg "Christmas fun session")
+
+![](/assets/weekly-sessions.jpg)
