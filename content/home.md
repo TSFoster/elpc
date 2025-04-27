@@ -18,3 +18,7 @@ New members are always welcome and "come and try" sessions are organised regular
 ![](/assets/game-play.jpg)
 
 ![](/assets/weekly-sessions.jpg)
+
+![](/assets/action1.jpeg)
+
+![](/assets/action7.jpeg)
