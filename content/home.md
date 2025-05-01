@@ -3,15 +3,23 @@ internal_name: Home page
 title: East Lothian Pickleball Club
 is_page: true
 ---
-East Lothian Pickleball Club was established in August 2023.  We are a friendly and sociable club based at Queen Margaret University Sport Centre.  
 
-We have grown rapidly and offer 10 sessions per week with at least one session every day.
 
-We have 2 Scottish Pickleball Qualified coaches available and they run coaching clinics through the club and also offer private tuition.
 
-We enter a number of teams at different levels in the Scottish Pickleball regional leagues.
+**East Lothian Pickleball Club** was founded in August 2023 and is a welcoming, sociable community based at the Queen Margaret University Sports Centre. Since our inception, we've grown quickly, offering 10 weekly sessions with at least one class every day.
 
-New members are always welcome and "come and try" sessions are organised regularly so you can see for yourself what a great sport this is.
+We are proud to have three **Scottish Pickleball Qualified Coaches** on our team, who lead coaching clinics and provide private lessons to help players of all levels improve.
+
+Our club competes in the Scottish Pickleball regional leagues, with teams at various skill levels.
+
+We’re always happy to welcome new members! We regularly organize "come and try" sessions, giving you the chance to experience firsthand what makes this sport so enjoyable.
+
+
+
+
+
+
+
 
 ![](/assets/20250418_103824.jpg)
 
