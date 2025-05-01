@@ -3,13 +3,16 @@ internal_name: Coaching
 title: Coaching
 is_page: true
 ---
-We have two Pickleball Scotland qualified coaches and they provide a variety of coaching options for members.
 
-The club runs a weekly coached session for 20 members to learn and practice specific skills.  We also run blocks of coaching for groups of 4 so that they can develop skills together and have more interaction with the coach.
 
-Our coaches also offer private coaching for any members wishing to work with them directly.
 
-In the run up to major events we run practice sessions for members who have entered the event so that they can prapare for the challenge ahead.
+We have three **Pickleball Scotland** qualified coaches who offer a range of coaching options to suit our members' needs.
+
+Each week, the club hosts a coached session for up to 20 members, focusing on specific skills and techniques. Additionally, we offer coaching blocks for small groups of 4, allowing for more personalized attention and interaction with the coach.
+
+For members who prefer one-on-one guidance, our coaches also provide private coaching sessions tailored to individual needs.
+
+Leading up to major events, we organize practice sessions for those participating, helping them prepare and refine their skills for the challenges ahead.
 
 ![](/assets/coaching.jpg)
 
