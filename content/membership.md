@@ -3,9 +3,12 @@ internal_name: Membership
 title: Membership
 is_page: true
 ---
-ELPC is a friendly volunteer run club.  Our aim to provide members and guests of all ages and standards the opportunity to develop their game through social and competitive play while respecting each other and having fun. 
 
-Annual membership is available at £15 for which members benefit from reduce rate sessions, member only coaching sessions, access to the club ball machine and special member only festivals and tournaments.
+
+
+**ELPC** is a friendly, volunteer-run club dedicated to offering players of all ages and skill levels the chance to improve their game through both social and competitive play. We focus on creating a respectful and fun environment for everyone.
+
+Annual membership is just £15, which provides members with several perks, including discounted session rates, exclusive coaching sessions, access to the club’s ball machine, and invitations to special members-only festivals and tournaments.
 
 ![](/assets/christmas.jpg "Christmas Tournament")
 
