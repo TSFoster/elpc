@@ -31,7 +31,7 @@ collections:
         name: internal_name
         widget: string
         required: true
-        hint: Your own name for the page, only for use on the back-end. Used to identify on the list of pages and when adding to a menu.
+        hint: Your own name for the page, only for use on the back-end. Used to identify on the list of pages and when adding to a menu. Good idea to not change this once set.
       - label: Title
         name: title
         widget: string
@@ -73,9 +73,6 @@ collections:
     folder: content/news
     create: true
     format: frontmatter
-    filter:
-      field: type
-      value: news
     preview_path: 'news/{{ print "{{ slug }}" }}/'
     editor: { preview: false }
     media_folder: /assets/news
@@ -84,15 +81,10 @@ collections:
       - label: Title
         name: title
         widget: string
-        default: Minutes for meeting held
       - label: Date
         name: publishDate
         widget: datetime
         picker_utc: true
-      - label: Type
-        name: type
-        default: news
-        widget: hidden
       - label: Content
         name: body
         widget: markdown
