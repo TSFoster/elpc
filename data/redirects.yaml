@@ -1,4 +1,3 @@
----
-redirects: []
----
-
+redirects:
+  - from: /whatsapp
+    to: https://chat.whatsapp.com/GWjzphIPIUD8S6XcFm72V2
